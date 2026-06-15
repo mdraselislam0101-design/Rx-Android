@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Control App</string>
+    <string name="accessibility_service_description">এই সার্ভিস ফোন কন্ট্রোল করতে ব্যবহৃত হয়</string>
+</resources>
